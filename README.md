@@ -1,4 +1,6 @@
 # 💫 About Me:
+
+                                                👋 Hi I am Aryan Anand !
 Graduate developer with a growing focus on AI and Machine Learning, currently building skills in Python, data analysis, and ML fundamentals. Passionate about creating real-world AI products and continuously learning through hands-on projects and problem solving.<br><br>🔭 I’m currently working on Web Development and  Gen AI<br>👯 I’m looking to collaborate on Ai based projects<br>🤝 I’m looking for guidance in Gen AI and Agentic AI<br>🌱 I’m currently learning Gen AI<br>💬 Ask me about Python, JS , Web Dev<br>⚡ Fun fact: Watch a lot of animes and web series
 
 
